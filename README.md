@@ -7,3 +7,7 @@ Furthermore, i also used matplotlib and seaborn as the data visualization tools.
 The environment i used to write the code is Jupyter Notebook.
 
 Should you have any question, feel free to contact me at [jopi.adrianto@gmail.com](mailto:jopi.adrianto@gmail.com)
+
+Feel free to check out two of my analysis [here](MID COURSE PROJECT.ipynb) and [here](FINAL PROJECT.ipynb)
+
+THANK YOU!
