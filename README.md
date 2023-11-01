@@ -8,6 +8,6 @@ The environment i used to write the code is Jupyter Notebook.
 
 Should you have any question, feel free to contact me at [jopi.adrianto@gmail.com](mailto:jopi.adrianto@gmail.com)
 
-Feel free to check out two of my analysis [here](https://github.com/adjopi20/Pandas-Project-Bootcamp/blob/main/MID%20COURSE%20PROJECT.ipynb) and [here](FINAL PROJECT.ipynb)
+Feel free to check out two of my analysis [here](https://github.com/adjopi20/Pandas-Project-Bootcamp/blob/main/MID%20COURSE%20PROJECT.ipynb) and [here](https://github.com/adjopi20/Pandas-Project-Bootcamp/blob/main/FINAL%20PROJECT.ipynb)
 
 THANK YOU!
